@@ -1,0 +1,33 @@
+Topics covered on this lecture
+
+1. print() statement
+
+print() is a built-in function that is used to display information or output to the console. 
+Its primary purpose is to take one or more expressions or values as arguments and print them to the standard output.
+
+2. Strings
+
+a string is a sequence of characters, and it is one of the basic data types that the language supports. 
+Strings can contain letters, numbers, and various special characters. 
+They are created by enclosing text in either single quotes (') or double quotes (")
+
+3. String Manipulation 
+a. \n - newline
+b. + - string concatenation
+
+4. Indentation
+
+Indentation is a crucial aspect of the syntax and is used to define blocks of code. 
+
+5. input()
+
+input() function is used to take user input from the keyboard. 
+It allows a program to pause and wait for the user to enter some text, and then it captures that input as a string. 
+
+6. Comment
+
+a set of instructions which implies what is happening in the code.
+
+7. Variable
+
+a storage where we could store the value
