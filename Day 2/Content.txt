@@ -1,0 +1,19 @@
+Subscripting -  Getting a particular element from a datatype (String/List)
+"_" is used to denote a large number. eg: 123_769
+Python datatype
+1. int()
+2.float()
+3.bool()
+
+Mathematical operators.
+1. sum() --> +
+2. subraction --> -
+3. multiplication --> *
+4. float division --> /
+5. exponential --> **
+6. integer division --> //
+
+
+short cuts
+1. user = user + 1 --> user += 1
+2. fstring = f"value {bmi}"

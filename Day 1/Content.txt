@@ -31,3 +31,8 @@ a set of instructions which implies what is happening in the code.
 7. Variable
 
 a storage where we could store the value
+
+8. Naming rules for variables
+  a. one single unit. no spaces. use underscore
+  b. Not to use default functions name
+  3. Case sensitive
